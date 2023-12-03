@@ -1,0 +1,10 @@
+Computer Name: DESKTOP-KU8K7A5
+Date of Test: 2023-12-03 18:21:10
+Bubble Sort Time: 6.458549 seconds
+Quick Sort Time: 0.023055 seconds
+
+Computer Name: DESKTOP-KU8K7A5
+Date of Test: 2023-12-03 18:21:17
+Bubble Sort Time: 6.045852 seconds
+Quick Sort Time: 0.011629 seconds
+
