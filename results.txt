@@ -1,0 +1,6 @@
+Computer Name: MacBook-Air-von-Tom-2.local
+Date of Test: 2023-12-03 18:30:13
+Bubble Sort Time: 0.000002 seconds
+Quick Sort Time: 0.000001 seconds
+
+
